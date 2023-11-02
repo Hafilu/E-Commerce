@@ -28,22 +28,21 @@ The product data is fetched from the FakeStore API. You can explore the API docu
 
 ## Installation
 1. Clone the repository:
-
+   
    ```bash
    git clone https://github.com/Hafilu/E-Commerce.git
 
-2.Navigate to the project directory:
+   2.Navigate to the project directory:
+   
+     cd e-commerce-shop
 
-  ```bash
-  cd e-commerce-shop
-
-3.Install project dependencies:
-
-  npm install --force
-
-4.Start the app:
-
-  npm start
+   3.Install project dependencies:
+   
+     npm install --force
+   
+   4.Start the app:
+   
+     npm start
 
 The application should now be running on http://localhost:3000.
 
