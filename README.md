@@ -9,6 +9,12 @@ This is an e-commerce website frontend built using React and Redux. It allows us
 - State management using Redux for efficient data handling.
 - Real-time updates to the user interface when selecting products.
 
+### Landing page
+![User Interface](screenshots/1.PNG)
+
+### Product Details
+![details](screenshots/2.PNG)
+
 ## Usage
 - Open your web browser and go to http://localhost:3000 to access the e-commerce shop website.
 
