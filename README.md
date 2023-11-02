@@ -39,12 +39,10 @@ The product data is fetched from the FakeStore API. You can explore the API docu
 
 3.Install project dependencies:
 
-  ```bash
   npm install --force
 
 4.Start the app:
 
-  ```bash
   npm start
 
 The application should now be running on http://localhost:3000.
